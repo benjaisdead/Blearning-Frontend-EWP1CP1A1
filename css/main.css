@@ -1,0 +1,212 @@
+.navbar{
+  margin: 0;
+}
+.btn {
+  padding: 2px 5 2 5;
+}
+.btn p {
+  margin: 0;
+}
+#carousel-example-generic{
+  position: relative;
+}
+.caption-text {
+position: absolute;
+z-index: 10;
+top: 170px;
+}
+.caption-text h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+}
+.caption-text p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0;
+  text-align: center;
+  color: white;
+}
+.caption-btn{
+  position: absolute;
+  z-index: 10;
+  top: 370px;
+  display: block;
+  text-align: center;
+}
+.btn-one {
+  background: #10547A;
+}
+.btn-one p {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+.btn-two {
+  background: #118528;
+}
+.btn-two p {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+.section-2 h2 {
+  margin-top: 50px;
+  font-size: 1.2em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+.section-2 p {
+  font-size: 1em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+.img-team{
+  max-height: 300px;
+  margin: 0 auto;
+}
+.jumbotron h2 {
+  font-size: 1.2em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+.jumbotron p {
+  font-size: 1em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+.bottom{
+  position: absolute;
+  top: 947px;
+  clear: both;
+  width: 100%;
+  height: 220px;
+  background-color: #fafafa;
+  border-top: solid 1px silver;
+  border-bottom: solid 1px silver;
+}
+.bottom h1{
+  top: 20px;
+  position: absolute;
+  left: 25%;
+  width: 50%;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 15px;
+  text-align: center;
+  color: #333333;
+  margin-bottom: 20px;
+}
+.bottom p{
+  top: 40px;
+  position: absolute;
+  left: 25%;
+  width: 50%;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+  color: #333333;
+}
+.section3{
+  position: relative;
+  clear: both;
+  width: 100%;
+  height: 180px;
+}
+.section3 h1{
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #333333;
+}
+.section3 h2{
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: #333333;
+  text-align: left;
+}
+.section3 p{
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+  color: #333333;
+}
+.contact{
+  position: absolute;
+  float: left;
+  left: 30%;
+}
+.contact p{
+  text-align: left;
+}
+.suscribe{
+  position: absolute;
+  float: left;
+  left: 50%;
+}
+.box-s1{
+  position: absolute;
+  float: left;
+  width: 50%;
+  background-color: white;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d5d5d5;
+  padding-left: 10px;
+}
+.box-s1 p{
+  color: #d5d5d5;
+  text-align: left;
+  margin: 0;
+  padding: 5px;
+}
+.box-s2{
+  position: absolute;
+  float: left;
+  width: 30%;
+  background-color: white;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d5d5d5;
+  left: 53%;
+}
+.box-s2 p{
+  font-weight: 700;
+  margin: 0;
+  padding: 5px;
+}
+.footer{
+  position: relative;
+  width: 100%;
+  height: 50px;
+  background-color: #222222;
+}
+.footer p{
+  position: absolute;
+  font-family: Roboto;
+  font-weight: 100;
+  font-size: 15px;
+  left: 15%;
+  color: white;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.row {
+  margin: 0;
+}
